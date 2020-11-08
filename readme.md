@@ -22,7 +22,7 @@ This bot makes it possible to get events related to the 22,000 followed users in
 This data is useful for 
 https://streaker.rollodeqc.com/today
 http://dev.rollodeqc.com/fr/
-It will allow the possibility to, in the near future, statistics and graphs on the impact of covid-19 on developpement in Québec and open source in particular.
+It will allow the possibility to, in the near future, gather statistics and graphs on the impact of covid-19 on developpement in Québec and open source in particular.
 
 In breif, it is an initiative to better collect public data and create a global trace through time.
 
