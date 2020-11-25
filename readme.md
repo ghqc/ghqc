@@ -13,6 +13,9 @@ http://dev.rollodeqc.com/fr/
 
 Bref, c'est une initiative pour mieux collecter des données publiques et faire une trace globale dans le temps.
 
+(Section ajoutée par Demomaker : )
+Il y a maintenant un répertoire [Made-In-Quebec](https://github.com/Demomaker/Made-In-Quebec) pour voir ce qui est fait au Québec aussi. 
+
 ## EN
 You have a GitHub account and the user [ghqc](https://github.com/ghqc) is following you? That is perfectly normal, our *bot* found you since you indicated that you are in Québec on your GitHub profile. We can now do the aggregation of actions of québécois programmers in near real time to better trace the evolution of those actions.
 https://github.com/ghqc/readme/issues/1#issuecomment-329319668
@@ -24,5 +27,8 @@ https://streaker.rollodeqc.com/today
 http://dev.rollodeqc.com/fr/
 It will allow the possibility to, in the near future, gather statistics and graphs on the impact of covid-19 on developpement in Québec and open source in particular.
 
-In breif, it is an initiative to better collect public data and create a global trace through time.
+In brief, it is an initiative to better collect public data and create a global trace through time.
 
+
+(Section added by Demomaker : )
+There is now a repository, [Made-In-Quebec](https://github.com/Demomaker/Made-In-Quebec), available to see what is made in Quebec. 
